@@ -15,7 +15,7 @@ The project includes:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard1.png)
 
 ---
 
